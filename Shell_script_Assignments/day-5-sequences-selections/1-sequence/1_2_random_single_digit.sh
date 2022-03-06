@@ -1,0 +1,1 @@
+echo ${RANDOM:1:1}
